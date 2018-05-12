@@ -1,0 +1,26 @@
+_repo: Robert-E.-LeeA-Story-and-a-Play_34473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hill, Ruth
+    gutenberg_agent_id: '37048'
+    url: http://www.gutenberg.org/2009/agents/37048
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34473'
+  lccn: '21001608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s plays'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1807-1870 -- Juvenile literature'
+- !lcc 'E456'
+title: 'Robert E. Lee: A Story and a Play'
+url: http://www.gutenberg.org/ebooks/34473
